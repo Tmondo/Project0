@@ -65,12 +65,13 @@ article.flashcard section {
   overflow: hidden;
 }
 article.flashcard section.front {
-  color: rgb(235, 229, 231);
-  background: rgb(156, 103, 23);
+  color: black;
+  background:orange;
   height: 100%;
+
 }
 article.flashcard section.back {
-  color: #DDD;
-  background: rgb(168, 170, 44);
+  color:black;
+  background: yellow;
   height: 0%;
 }
